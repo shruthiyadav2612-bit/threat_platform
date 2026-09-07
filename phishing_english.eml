@@ -1,0 +1,21 @@
+From: "Account Security" <security@paypa1-verify.xyz>
+Reply-To: support@totally-legit-refunds.tk
+Return-Path: <bounce@paypa1-verify.xyz>
+To: victim@example.com
+Subject: Urgent: Your account has been suspended - verify now
+Date: Mon, 01 Sep 2026 09:12:33 +0000
+Message-ID: <a1b2c3d4@paypa1-verify.xyz>
+Authentication-Results: mx.example.com; spf=fail smtp.mailfrom=paypa1-verify.xyz; dkim=fail; dmarc=fail
+Received: from mail.paypa1-verify.xyz (203.0.113.5) by mx.example.com; Mon, 01 Sep 2026 09:12:30 +0000
+Received: from unknown (198.51.100.23) by mail.paypa1-verify.xyz; Mon, 01 Sep 2026 09:12:00 +0000
+Content-Type: text/plain
+
+Dear customer,
+
+Your account has been suspended due to unusual activity. Click here immediately to verify your identity and avoid permanent suspension:
+
+http://bit.ly/verify-account-now
+
+Failure to verify your account within 24 hours will result in permanent account closure.
+
+Security Team
